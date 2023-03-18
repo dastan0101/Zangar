@@ -109,6 +109,7 @@ body {
 .right {
     display: flex;
     justify-content: center;
+    /* flex-direction: column; */
     width: 40%;
     height: 100vh;
     background: var(--bg-color);
